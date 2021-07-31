@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/turbotype/static/css/main.9ed0b34d.chunk.css",
+    "main.js": "/turbotype/static/js/main.e9707f5d.chunk.js",
+    "main.js.map": "/turbotype/static/js/main.e9707f5d.chunk.js.map",
+    "runtime-main.js": "/turbotype/static/js/runtime-main.f2ec10f5.js",
+    "runtime-main.js.map": "/turbotype/static/js/runtime-main.f2ec10f5.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/turbotype/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.6e5babef.chunk.js": "/turbotype/static/js/2.6e5babef.chunk.js",
+    "static/js/2.6e5babef.chunk.js.map": "/turbotype/static/js/2.6e5babef.chunk.js.map",
+    "index.html": "/turbotype/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/turbotype/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.9ed0b34d.chunk.css.map": "/turbotype/static/css/main.9ed0b34d.chunk.css.map",
+    "static/js/2.6e5babef.chunk.js.LICENSE.txt": "/turbotype/static/js/2.6e5babef.chunk.js.LICENSE.txt",
+    "static/media/turbo-logo.f84a88d9.png": "/turbotype/static/media/turbo-logo.f84a88d9.png",
+    "static/media/turbo.c7fdb03c.png": "/turbotype/static/media/turbo.c7fdb03c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2ec10f5.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.6e5babef.chunk.js",
+    "static/css/main.9ed0b34d.chunk.css",
+    "static/js/main.e9707f5d.chunk.js"
+  ]
+}
